@@ -1,0 +1,67 @@
+{
+	"estudiantes": [
+		{
+			"nombre": "Laia Lucena",
+			"grupo": "11C",
+			"cedula": "X-XXX-XXXX",
+			"promedio": "4.3"
+		},
+		{
+			"nombre": "Iratxe Sevilla",
+			"grupo": "11C",
+			"cedula": "X-XXX-XXXX",
+			"promedio": "4.5"
+		},
+		{
+			"nombre": "Maria Victoria Solano",
+			"grupo": "11C",
+			"cedula": "X-XXX-XXXX",
+			"promedio": "3.8"
+		},
+		{
+			"nombre": "Elias Galindo",
+			"grupo": "10B",
+			"cedula": "X-XXX-XXXX",
+			"promedio": "3.8"
+		},
+		{
+			"nombre": "Maria Lucia de las Heras",
+			"grupo": "10B",
+			"cedula": "X-XXX-XXXX",
+			"promedio": "3.9"
+		},
+		{
+			"nombre": "Angel Luis Perera",
+			"grupo": "10B",
+			"cedula": "X-XXX-XXXX",
+			"promedio": "3.2"
+		}
+	],
+	"docentes": [
+		{
+			"nombre": "Sergio Checa",
+			"cedula": "X-XXX-XXXX",
+			"materias": "Matemática, Física"
+		},
+		{
+			"nombre": "Berta Hermoso",
+			"cedula": "X-XXX-XXXX",
+			"materias": "Inglés"
+		},
+		{
+			"nombre": "Maria Inmaculada Fernández",
+			"cedula": "X-XXX-XXXX",
+			"materias": "Frances"
+		},
+		{
+			"nombre": "Salvadora Martínez",
+			"cedula": "X-XXX-XXXX",
+			"materias": "Química"
+		},
+		{
+			"nombre": "Manuel Alejandro Pelaez",
+			"cedula": "X-XXX-XXXX",
+			"materias": "Español"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"cuentas": [
+		{
+			"id": "XXXXX-XX",
+			"monto": "50.12$",
+			"pagado": false,
+			"fecha": "2024-02-22"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "50.20$",
+			"pagado": true,
+			"fecha": "2024-03-22"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "30.11$",
+			"pagado": false,
+			"fecha": "2024-04-10"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "35.22$",
+			"pagado": true,
+			"fecha": "2024-04-12"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "52.00$",
+			"pagado": true,
+			"fecha": "2024-01-03"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "55.32$",
+			"pagado": false,
+			"fecha": "2024-03-16"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "51.03$",
+			"pagado": true,
+			"fecha": "2024-01-22"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "25.10$",
+			"pagado": true,
+			"fecha": "2024-05-22"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "53.00$",
+			"pagado": false,
+			"fecha": "2024-05-01"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "50.56$",
+			"pagado": true,
+			"fecha": "2024-01-20"
+		},
+		{
+			"id": "XXXXX-XX",
+			"monto": "20.02$",
+			"pagado": false,
+			"fecha": "2024-03-05"
+		}
+	]
+}
